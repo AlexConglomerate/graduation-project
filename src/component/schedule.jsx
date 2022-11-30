@@ -37,13 +37,13 @@ const getDays = (shift, dayCount) => {
 
 const getDayWeek = (num) => {
     let obj = {
-        1: "Mon",
-        2: "Tue",
-        3: "Wed",
-        4: "Thu",
-        5: "Fri",
-        6: "Sat",
-        0: "Sun",
+        1: "Mo",
+        2: "Tu",
+        3: "We",
+        4: "Th",
+        5: "Fr",
+        6: "Sa",
+        0: "Su",
     }
     return obj[num]
 }

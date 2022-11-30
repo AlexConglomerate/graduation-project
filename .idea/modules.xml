@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/graduation-project.iml" filepath="$PROJECT_DIR$/.idea/graduation-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2 module — React/react-router-dom/.idea/react-router-dom.iml" filepath="$PROJECT_DIR$/../2 module — React/react-router-dom/.idea/react-router-dom.iml" />
     </modules>
   </component>
 </project>
