@@ -1,7 +1,7 @@
 import React from "react";
-import GetAllMonth from "./schedule";
 import workers from "../api/vacations";
 import './table.css'
+import GetAllMonth from "./scheduleFuntion";
 
 
 const Table = () => {
