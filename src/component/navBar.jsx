@@ -18,8 +18,14 @@ function NavBar(props) {
                                 <Link className="nav-link active" to="/">Home</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link active" to="/schedule">Schedule</Link>
+                                <Link className="nav-link" to="/schedule">Schedule</Link>
                             </li>
+                            <li className="nav-item">
+                                <Link className="nav-link" to="/vacation">Vacation</Link>
+                            </li>
+
+
+
                             <li className="nav-item dropdown">
                                 <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                                    aria-expanded="false">
