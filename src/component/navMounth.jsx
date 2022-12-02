@@ -1,7 +1,4 @@
 import React from 'react';
-import DropdownButton from 'react-bootstrap/DropdownButton';
-import {Button, ButtonGroup, SplitButton} from "react-bootstrap";
-import Dropdown from "react-bootstrap/Dropdown";
 import DropdownItem from "./dropdown/dropdownItem";
 
 
